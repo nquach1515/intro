@@ -1,4 +1,4 @@
 # Nicholas's User Page
 ## My favorite programming language is Python
 
-![Otto](/images/otto.jpeg)
+[Link to user page](https://nquach1515.github.io/intro/)
