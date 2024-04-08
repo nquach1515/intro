@@ -35,7 +35,7 @@ Here's a picture of me golfing
 ![Golf](/images/golf.png)
 
 ### Other
-[Here is one of my favorite pictures](README.md)
+[Here is a cool file](README.md)
 
 ## Connect With Me!
 - [LinkedIn](https://www.linkedin.com/in/niquach/)
