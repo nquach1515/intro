@@ -2,3 +2,5 @@
 ## My favorite programming language is Python
 
 [Link to user page](https://nquach1515.github.io/intro/)
+
+[cool pciture](/images/otto.jpeg)
